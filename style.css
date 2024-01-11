@@ -235,8 +235,8 @@ span:hover{
 }
 .ite:hover {
     cursor: pointer;
-    height: 350px;
-    width: 330px;
+    height: 325px;
+    width: 310px;
     margin: 20px;
     transition: .5s;
 }
