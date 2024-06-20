@@ -338,7 +338,7 @@ span:hover{
         margin: 0;
     }
     li{
-        width: 20vw;
+        width: 50vw;
         padding: .6rem 1rem;
         margin: .2vh 0;
         background-color: var(--primary);
