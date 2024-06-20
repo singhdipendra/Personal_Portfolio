@@ -88,7 +88,7 @@ li:hover{
     width: 100%;
     justify-content: center;
     align-items: center;
-    padding: 14vw 3vw 2vw 12vw;
+/*     padding: 14vw 3vw 2vw 12vw; */
     color: #edeff3;
 }
 .head-1{
@@ -121,7 +121,7 @@ span:hover{
     color: #873edf;
 }
 
-.right{
+/* .right{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -133,10 +133,10 @@ span:hover{
     margin-right: -15%;
     margin-bottom: 1%;
     /* width:300px; */
-}
-.img:hover{
+} */
+/* .img:hover{
     max-width: 28vw;
-}
+} */
 
 /*Skills Section*/
 #skills{
