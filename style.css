@@ -78,8 +78,8 @@ li:hover{
    font-size: 3.3vw;
   }
 .left{
-    width: 100%;
-    justify-content: center;
+    width: 60%;
+    justify-content: end;
     align-items: center;
     padding: 14vw 3vw 2vw 12vw;
     color: #edeff3;
