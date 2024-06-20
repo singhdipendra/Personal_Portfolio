@@ -390,12 +390,7 @@ span:hover{
         margin: 2vh 0 4vh;
         font-size: 1.7rem;
     }
-    .img2:hover~.img{
-        margin-left: -10%;
-    }
-    .img:hover{
-        margin-left: -10%;
-    }
+
     .cntr{
         width:70vw;
     }
@@ -411,7 +406,7 @@ span:hover{
     }
     .ites{
         width: 100%;
-        padding: 0;
+        padding: 4;
         flex-direction: column;
     }
     .ite{
