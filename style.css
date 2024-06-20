@@ -336,9 +336,10 @@ span:hover{
         margin: .2vh 0;
         background-color: var(--primary);
     }
-    .c1>img,.c2>img{
+    .img{
         max-height: 100%;
         max-width: 90%;
+        margin-top:2px;
     }
     .navbar{
         display: flex;
