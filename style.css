@@ -412,7 +412,7 @@ span:hover{
     .ite{
         width: 75%;
         height: auto;
-        margin:1em;
+        margin:3vh auto;
     }
     #box{
         -webkit-mask-image: none;
