@@ -93,12 +93,12 @@ li:hover{
     align-items: center;
     padding: 14vw 3vw 3vw 13vw;
     color: #edeff3;
-     text-align: center;
+     
 }
 .head-1{
     font-size: 5em;
     font-weight: 900;
-/*      text-align: center; */
+     text-align: center;
     color: #9fb6e3;
 }
 /* .q1{
@@ -111,10 +111,12 @@ li:hover{
     background-color: transparent;
     font-size: 3.5em;
     font-weight: 800;
+    text-align: center;
 }
 .txt{
     font-size: 1.5em;
     padding-bottom: 200px;
+    text-align: center;
 }
 .txt:hover{
     color: #873edf;
