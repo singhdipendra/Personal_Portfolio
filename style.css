@@ -409,12 +409,12 @@ span:hover{
     #project{
         height: auto;
     }
-    .cards{
+    .ites{
         width: 100%;
         padding: 0;
         flex-direction: column;
     }
-    .card{
+    .ite{
         width: 75%;
         height: auto;
         margin: 2vh auto;
