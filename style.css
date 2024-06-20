@@ -426,10 +426,7 @@ span:hover{
         height: auto;
         margin: 2vh auto;
     }
-    .q2 img{
-    max-height: 30%;
-    max-width: 90%;
-}
+    
     #box{
         -webkit-mask-image: none;
         mask-image: none;
