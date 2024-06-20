@@ -390,6 +390,11 @@ span:hover{
         margin: 2vh 0 4vh;
         font-size: 1.7rem;
     }
+    .img{
+        float:right;
+/*         margin:0 0 5px 5px ; */
+        width: 25%;
+    }
 
     .cntr{
         width:70vw;
