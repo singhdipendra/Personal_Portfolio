@@ -81,8 +81,9 @@ li:hover{
   .content{
  
 /*     display: flex; */
-       justify-content: center;
+     justify-content: center;
     align-items: center;
+      padding:0;
       
     
 }
