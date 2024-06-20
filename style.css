@@ -86,7 +86,7 @@ li:hover{
 
 .left{
     width: 60%;
-    justify-content: end;
+    justify-content: center;
     align-items: center;
     padding: 14vw 3vw 2vw 12vw;
     color: #edeff3;
