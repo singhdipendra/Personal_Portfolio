@@ -78,9 +78,9 @@ li:hover{
    font-size: 3.3vw;
   }
 .main{
-/*     width: 100%; */
-/*     justify-content: center;
-    align-items: center; */
+    width: 100%; 
+    justify-content: center;
+    align-items: center;
     text-align: center;
 /*     padding: 14vw 3vw 2vw 12vw; */
     color: #edeff3;
