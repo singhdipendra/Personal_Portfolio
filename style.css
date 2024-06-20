@@ -391,9 +391,7 @@ span:hover{
         font-size: 1.7rem;
     }
     .img{
-        float:right;
-/*         margin:0 0 5px 5px ; */
-        width: 25%;
+        margin-top:2px;
     }
 
     .cntr{
