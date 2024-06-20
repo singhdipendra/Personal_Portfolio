@@ -336,10 +336,10 @@ span:hover{
         margin: .2vh 0;
         background-color: var(--primary);
     }
-    .c1>img,.c2>img{
+/*     .c1>img,.c2>img{
         max-height: 100%;
         max-width: 90%;
-    }
+    } */
     .navbar{
         display: flex;
         flex-direction: column;
