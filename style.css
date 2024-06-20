@@ -349,7 +349,7 @@ span:hover{
     }
     .navbar{
         display: flex;
-        flex-direction: column;
+        flex-direction: row;
         justify-content: flex-start;
         min-height: 9vh;
         height: auto;
