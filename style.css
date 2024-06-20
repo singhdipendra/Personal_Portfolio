@@ -241,7 +241,7 @@ span:hover{
     border-radius: 15px;
     height: 320px;
     width: 300px;
-    margin: 20px;
+    margin: 40px 20px 20px 20px;
 }
 .ite:hover {
     cursor: pointer;
