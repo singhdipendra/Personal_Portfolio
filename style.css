@@ -354,9 +354,7 @@ span:hover{
         min-height: 9vh;
         height: auto;
     }
-/*     nav{
-        display: none;
-    } */
+
     nav>ul>li{
         display: block;
     }
