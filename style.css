@@ -85,10 +85,10 @@ li:hover{
 }
 
 .left{
-    width: 60%;
+    width: 100%;
     justify-content: end;
     align-items: center;
-    padding: 14vw 3vw 2vw 12vw;
+    padding: 14vw 3vw 3vw 13vw;
     color: #edeff3;
 }
 .head-1{
@@ -121,22 +121,21 @@ span:hover{
     color: #873edf;
 }
 
-.right{
+/* .right{
     display: flex;
     justify-content: center;
     align-items: center;
     width: 40%;
-}
-
+} 
 .right>.img{
     max-width: 25vw;
     margin-right: -15%;
     margin-bottom: 1%;
-    /* width:300px; */
-}
+    width:300px; 
+ }
 .img:hover{
     max-width: 28vw;
-}
+} */ 
 
 /*Skills Section*/
 #skills{
