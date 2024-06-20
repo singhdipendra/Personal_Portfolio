@@ -77,10 +77,11 @@ li:hover{
     color: #873edf;
    font-size: 3.3vw;
   }
-.mac{
-   
-    text-align: center;
-/*     padding: 14vw 3vw 2vw 12vw; */
+.left{
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    padding: 14vw 3vw 2vw 12vw;
     color: #edeff3;
 }
 .head-1{
