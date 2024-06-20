@@ -406,13 +406,13 @@ span:hover{
     }
     .ites{
         width: 100%;
-        padding: 4;
+        padding: 1em;
         flex-direction: column;
     }
     .ite{
         width: 75%;
         height: auto;
-        margin: 2vh 2vh;
+        margin:1em;
     }
     #box{
         -webkit-mask-image: none;
