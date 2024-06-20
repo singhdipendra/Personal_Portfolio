@@ -78,15 +78,15 @@ li:hover{
    font-size: 3.3vw;
   }
 
-  .content{
+/*   .content{
  
     display: flex;
     
-}
+} */
 
 .left{
     width: 100%;
-    justify-content: end;
+/*     justify-content: end; */
     align-items: center;
     padding: 14vw 3vw 3vw 13vw;
     color: #edeff3;
