@@ -78,11 +78,14 @@ li:hover{
    font-size: 3.3vw;
   }
 
-/*   .content{
+  .content{
  
-    display: flex;
+/*     display: flex; */
+       justify-content: center;
+    align-items: center;
+      
     
-} */
+}
 
 .left{
     width: 100%;
@@ -94,6 +97,7 @@ li:hover{
 .head-1{
     font-size: 5em;
     font-weight: 900;
+     text-align: center;
     color: #9fb6e3;
 }
 /* .q1{
